@@ -46,3 +46,11 @@ for sheep in sheeps:
     else:
         sheep_count_2 += 1
 print(sheeps)
+
+'''
+HW
+1. О цикле for: https://www.google.com/search?q=for+loop+python&client=opera&hs=CU9&ei=eyoDZKqQBOCawPAPy82wuAM&oq=for+loop&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgcIABCwAxBDMgcIABCwAxBDMgcIABCwAxBDSgQIQRgAUABYAGC-DmgBcAB4AIABAIgBAJIBAJgBAMgBCsABAQ&sclient=gws-wiz-serp
+2. Написать программу, котора будет выводить ТОЛЬКО четные числа из range()
+3. Бегун за 1 круг выпивает 0.5 л воды. Сколько кругов он сможет пробежать, пока у него не закончится вода?
+Задачу решить через for
+'''
