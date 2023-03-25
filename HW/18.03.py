@@ -8,3 +8,4 @@ def solve_task(sperm):
 
 print(solve_task('XY'))
 print(solve_task('XX'))
+print(solve_task('XXYXYXYXYXYXYXYX'))
