@@ -1,7 +1,6 @@
 # Task 1 - Словарь из двух списков
 def create_dict(arr1, arr2):
     result = {}
-
     for elem in range(len(arr1)):
         try:
             result[arr1[elem]] = arr2[elem]
@@ -9,7 +8,7 @@ def create_dict(arr1, arr2):
             result[arr1[elem]] = None
     return result
 
-# print(create_dict([1,2,3,4,5], [4,5,6,7]))
+print(create_dict([1,2,3,4,5], [4,5,6,7]))
 
 # Task 2 - Сортировка словарей
 def sort_dict(dictionary):
